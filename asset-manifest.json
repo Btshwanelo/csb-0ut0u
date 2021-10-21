@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "https://btshwanelo.github.io/csb-0ut0u/static/css/main.91ae7df5.chunk.css",
+    "main.js": "https://btshwanelo.github.io/csb-0ut0u/static/js/main.a2f1d786.chunk.js",
+    "main.js.map": "https://btshwanelo.github.io/csb-0ut0u/static/js/main.a2f1d786.chunk.js.map",
+    "runtime-main.js": "https://btshwanelo.github.io/csb-0ut0u/static/js/runtime-main.54079806.js",
+    "runtime-main.js.map": "https://btshwanelo.github.io/csb-0ut0u/static/js/runtime-main.54079806.js.map",
+    "static/css/2.a8b376cf.chunk.css": "https://btshwanelo.github.io/csb-0ut0u/static/css/2.a8b376cf.chunk.css",
+    "static/js/2.72840f0f.chunk.js": "https://btshwanelo.github.io/csb-0ut0u/static/js/2.72840f0f.chunk.js",
+    "static/js/2.72840f0f.chunk.js.map": "https://btshwanelo.github.io/csb-0ut0u/static/js/2.72840f0f.chunk.js.map",
+    "static/js/3.1a2020c9.chunk.js": "https://btshwanelo.github.io/csb-0ut0u/static/js/3.1a2020c9.chunk.js",
+    "static/js/3.1a2020c9.chunk.js.map": "https://btshwanelo.github.io/csb-0ut0u/static/js/3.1a2020c9.chunk.js.map",
+    "index.html": "https://btshwanelo.github.io/csb-0ut0u/index.html",
+    "static/css/2.a8b376cf.chunk.css.map": "https://btshwanelo.github.io/csb-0ut0u/static/css/2.a8b376cf.chunk.css.map",
+    "static/css/main.91ae7df5.chunk.css.map": "https://btshwanelo.github.io/csb-0ut0u/static/css/main.91ae7df5.chunk.css.map",
+    "static/js/2.72840f0f.chunk.js.LICENSE.txt": "https://btshwanelo.github.io/csb-0ut0u/static/js/2.72840f0f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "https://btshwanelo.github.io/csb-0ut0u/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54079806.js",
+    "static/css/2.a8b376cf.chunk.css",
+    "static/js/2.72840f0f.chunk.js",
+    "static/css/main.91ae7df5.chunk.css",
+    "static/js/main.a2f1d786.chunk.js"
+  ]
+}
